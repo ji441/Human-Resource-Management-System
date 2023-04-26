@@ -1,0 +1,14 @@
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\bin\Debug\net6.0\Interview.AppCore.deps.json
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\bin\Debug\net6.0\Interview.AppCore.runtimeconfig.json
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\bin\Debug\net6.0\Interview.AppCore.dll
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\bin\Debug\net6.0\Interview.AppCore.pdb
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.csproj.AssemblyReference.cache
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.AssemblyInfoInputs.cache
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.AssemblyInfo.cs
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.csproj.CoreCompileInputs.cache
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.dll
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\obj\Debug\net6.0\refint\Interview.AppCore.dll
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.pdb
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\obj\Debug\net6.0\Interview.AppCore.genruntimeconfig.cache
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Interview.AppCore\obj\Debug\net6.0\ref\Interview.AppCore.dll

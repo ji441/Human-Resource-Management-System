@@ -1,0 +1,44 @@
+name: dockercompose12435357457426327351
+services:
+  interview:
+    build:
+      context: D:\universityhomework\SEP-antra\ReallyBigProject\Interview
+      dockerfile: Interview/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: interview
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+  onboardingapi:
+    build:
+      context: D:\universityhomework\SEP-antra\ReallyBigProject\Interview
+      dockerfile: OnboardingAPI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: onboardingapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+  recruitingapi:
+    build:
+      context: D:\universityhomework\SEP-antra\ReallyBigProject\Interview
+      dockerfile: RecruitingAPI/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: recruitingapi
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose12435357457426327351_default

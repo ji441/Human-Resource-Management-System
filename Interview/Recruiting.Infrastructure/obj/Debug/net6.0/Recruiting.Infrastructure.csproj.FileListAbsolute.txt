@@ -1,0 +1,17 @@
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\bin\Debug\net6.0\Recruiting.Infrastructure.deps.json
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\bin\Debug\net6.0\Recruiting.Infrastructure.runtimeconfig.json
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\bin\Debug\net6.0\Recruiting.Infrastructure.dll
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\bin\Debug\net6.0\Recruiting.Infrastructure.pdb
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\bin\Debug\net6.0\Recruiting.Core.dll
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\bin\Debug\net6.0\Recruiting.Core.pdb
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\Recruiting.Infrastructure.csproj.AssemblyReference.cache
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\Recruiting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\Recruiting.Infrastructure.AssemblyInfoInputs.cache
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\Recruiting.Infrastructure.AssemblyInfo.cs
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\Recruiting.Infrastructure.csproj.CoreCompileInputs.cache
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\Recruiting.Infrastructure.csproj.CopyComplete
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\Recruiting.Infrastructure.dll
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\refint\Recruiting.Infrastructure.dll
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\Recruiting.Infrastructure.pdb
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\Recruiting.Infrastructure.genruntimeconfig.cache
+D:\universityhomework\SEP-antra\ReallyBigProject\Interview\Recruiting.Infrastructure\obj\Debug\net6.0\ref\Recruiting.Infrastructure.dll
